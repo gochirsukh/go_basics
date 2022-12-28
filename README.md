@@ -1,7 +1,10 @@
 Go foundational items
 
 
-* Resources
+## Resources
 
-#### for loops
-[1] https://yourbasic.org/golang/for-loop/
+#### For Loops
+* https://yourbasic.org/golang/for-loop/
+
+#### Struct
+* https://www.callicoder.com/golang-structs/
