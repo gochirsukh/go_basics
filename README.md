@@ -8,3 +8,7 @@ Go foundational items
 
 #### Struct
 * https://www.callicoder.com/golang-structs/
+
+#### Switch
+
+* https://gobyexample.com/arrays
