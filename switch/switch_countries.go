@@ -6,13 +6,18 @@ import (
 
 func main() {
 
-	country := "Mongolia"
+	fmt.Println("Enter name")
+	var name string
 
-	switch country := "Mongolia"; country {
-	case "Mongolia":
-		fmt.Println("horses")
+	fmt.Scanln(&name)
 
-	case "China":
-		fmt.Println("rice")
+	switch name := name; name {
+	case "Gansukh":
+		fmt.Println("He is a SRE")
+	case "Chris":
+		fmt.Println("He is an analyst")
+	default:
+		fmt.Println("Who knows?")
 	}
+
 }
