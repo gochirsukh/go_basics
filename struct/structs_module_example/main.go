@@ -1,4 +1,4 @@
-// fist run "go mod init structs_module_example"
+// First run "go mod init structs_module_example"
 // Example from https://golangbot.com/structs/
 
 package main
