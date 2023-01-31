@@ -1,5 +1,6 @@
 // Resource:
 // https://gobyexample.com/slices
+// To read: https://go.dev/blog/slices-intro
 package main
 
 import "fmt"
