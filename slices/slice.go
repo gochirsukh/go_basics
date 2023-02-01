@@ -1,6 +1,8 @@
 // Resource:
 // https://gobyexample.com/slices
 // To read: https://go.dev/blog/slices-intro
+// To read: https://medium.com/@langhxs/golang-sliceedge-cases-4557514eecef
+
 package main
 
 import "fmt"
