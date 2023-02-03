@@ -16,3 +16,6 @@ Go foundational items
 
 ##### 25 keywords in Golang
 * https://articles.wesionary.team/know-about-25-keywords-in-go-eca109855d4d
+
+##### Go Book 
+* https://www.golang-book.com/books/intro
