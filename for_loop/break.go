@@ -1,5 +1,6 @@
 // resource
 // https://www.digitalocean.com/community/tutorials/using-break-and-continue-statements-when-working-with-loops-in-go
+// To do: https://www.tutorialspoint.com/go/go_break_statement.htm
 package main
 
 import "fmt"
