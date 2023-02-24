@@ -4,14 +4,10 @@ import "fmt"
 
 func main() {
 
-	//Print out the question
 	fmt.Println("Enter name")
-	//Declare var
 	var fname string
-	//Take name
 	fmt.Scan(&fname)
 
-	//Switch
 	switch vname := fname; vname {
 	case "Gansukh":
 		fmt.Println("He is an architect and SRE")
