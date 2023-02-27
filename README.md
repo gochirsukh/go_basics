@@ -1,7 +1,7 @@
 ### Go Challanges
 
 * [Monday](./daily_challanges/Monday.md)
-* [Tueday](./daily_challanges/Tuesday.md)
+* [Tuesday](./daily_challanges/Tuesday.md)
 * [Wednesday](./daily_challanges/Wednesday.md) 
 * [Thursday](./daily_challanges/Thursday.md)
 * [Friday](./daily_challanges/Friday.md)
