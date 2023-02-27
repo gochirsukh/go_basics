@@ -1,14 +1,6 @@
-This is a space where you excercise your go skill
-
-Monday 
-
-    1. If then else (Take input (use scan))
-            if a person age greater than 18, is eligible for an election 
-    2. Challange 2
-            Come up with nested if then else statement 
-    3. Challange 
     
-Tuesday
+## Tuesday
+
     1. Array Challange 1
         Print an array of integers
         Print an array of strings 
@@ -23,13 +15,16 @@ Tuesday
         To read: 
     1. Slices Challange 2
         
-Wednesday 
+## Wednesday 
+
     maps 
         Write a map with string key and int value and then print it out. 
             syntaxt: (map[key-type]val-type)
             Tip: Use go built in funcation 'make' to create a map 
             map is used for creating hash map data structure and you need to learn more about it 
-Thursday
+            
+## Thursday
+
     for loops
         Print hello_world 5 times 
             Outpput: 
@@ -56,16 +51,23 @@ Thursday
             Inner loop 5
             Breaking out of the loop as I is eq to 5
     continue statement 
-        xxxx
-Friday 
+        tbd
+        
+## Friday 
+
     switch 
+    
         Enter the name of an engineer and print out the title 
         See go structure in /Users/go0230ll12/Desktop/GO_PROJEC_NOV_2022/exgo_basics/switch/switch_structure.go
-Saturday 
+        
+## Saturday 
+
     file handling 
         Read text file.txt 
         Inclide error handling 
-Sunday
+        
+## Sunday
+
     struct 
             - Note: Think about the stuct syntax before you dive int it. 
             - Create a person struct and print fname, lname, and age 
