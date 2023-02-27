@@ -1,4 +1,4 @@
-### Go Challanges
+### Go Challenges
 
 * [Monday](./daily_challanges/Monday.md)
 * [Tuesday](./daily_challanges/Tuesday.md)
@@ -7,4 +7,3 @@
 * [Friday](./daily_challanges/Friday.md)
 * [Saturday](./daily_challanges/Saturday.md) 
 * [Sunday](./daily_challanges/Sunday.md)
-
