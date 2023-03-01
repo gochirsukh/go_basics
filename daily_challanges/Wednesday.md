@@ -9,4 +9,4 @@
 	* Map is used for creating hash map data structure and you need to learn more about it 
 
 	
-[Map Examples](./maps/)
+[Map Examples](./maps/maps.go)
