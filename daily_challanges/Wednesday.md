@@ -6,4 +6,7 @@
 	* Tip: Use go built in funcation 'make' to 
             
 2. Create a map 
-	* map is used for creating hash map data structure and you need to learn more about it 
+	* Map is used for creating hash map data structure and you need to learn more about it 
+
+	
+[Map Examples](./maps/)
