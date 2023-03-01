@@ -13,6 +13,6 @@
 
    
 * [Array Examples](../arrays)
-* [Slice Examples](../maps)
+* [Slice Examples](../slices)
 
 
