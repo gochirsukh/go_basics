@@ -18,3 +18,5 @@
 	* `https://www.geeksforgeeks.org/nested-structure-in-golang/`
 
 3. Error handling 
+
+[Struct Examples](../struct)

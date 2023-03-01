@@ -7,3 +7,5 @@
             Come up with nested if then else statement 
 3. Next Challange 
 
+
+[If Then Else Examples](../if_then_else)

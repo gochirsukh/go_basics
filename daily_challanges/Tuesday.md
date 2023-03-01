@@ -12,3 +12,7 @@
 1. Create a Slice, assign a value, and then print them out. 
 
    
+* [Array Examples](../arrays)
+* [Slice Examples](../maps)
+
+
