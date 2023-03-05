@@ -1,6 +1,6 @@
 ## Sunday
 
-1. struct 
+1. **Struct** (Be sure to use **module** structure in your challanges)
 	* Think about the stuct syntax before you dive int it. 
 	* Create a person struct and print fname, lname, and age 
 	* Create an app that prints out specs of MacBook. The struct should be in a module

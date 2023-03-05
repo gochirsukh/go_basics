@@ -18,6 +18,8 @@ human_main_dir
 
 * File name of the module i.e `person_module.go` should not be referenced anywhere in the app. Instead, `main.go` calls the module using `person_module_dir`
 
+* Module dir name and module name witin the module file i.e `person_module.go` should match
+
 * Witin go.mod 
 	- Anything before before the `/` doesn't matter in `example.com/human_main_dir` in `go.mod` when the app is not importing any local module 
 	- It matters when you import module 
