@@ -10,5 +10,27 @@
 
 ### To Do
 
-* Add 25 key workds to the challange list [link](https://www.geeksforgeeks.org/go-keywords/)
+* Golang 25 key words [link](https://articles.wesionary.team/know-about-25-keywords-in-go-eca109855d4d)
+
+### 
+
+
+|Declaration | Compostion types | Control Folow | Function Modifier |
+|--------|--------|--------|--------|
+| const | chan | break | defer | 
+| var |inerface | case | go | 
+| func |map | contine | | 
+| type |struct | default | | 
+| import |  | else | | 
+| package |  | fallthrough | |
+| | | for | |
+| | | goto | | |
+| | | if | | |
+| | | range | | |
+| | | return | | |
+| | | select | | |
+| | | switch | | |
+
+
+
 
