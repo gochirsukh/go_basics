@@ -10,3 +10,9 @@
 
 	
 [Map Examples](../maps/)
+
+### To Do 
+
+* Understand hashmap in order to grasp map
+* [Vidoe Tutorial](https://www.youtube.com/watch?v=lgk_eMv0HD8)
+* [Article](https://www.freecodecamp.org/news/hash-tables/)
