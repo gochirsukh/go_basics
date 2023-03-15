@@ -5,14 +5,15 @@
 	* syntaxt: (map[key-type]val-type)
 	* Tip: Use go built in funcation 'make' to 
             
-2. Create a map 
-	* Map is used for creating hash map data structure and you need to learn more about it 
+2. Create a map of employee and their salary
+	* Print out name of employee and their annual salary
 
 	
 [Map Examples](../maps/)
 
-### To Do 
+### Tutorials
 
 * Understand hashmap in order to grasp map
-* [Vidoe Tutorial](https://www.youtube.com/watch?v=lgk_eMv0HD8)
-* [Article](https://www.freecodecamp.org/news/hash-tables/)
+* [Excellent GoLang Map Examples](https://golangbot.com/maps/)
+* [Video of Hashmap Tutorial](https://www.youtube.com/watch?v=lgk_eMv0HD8)
+* [Hash tables Article](https://www.freecodecamp.org/news/hash-tables/)
