@@ -17,8 +17,10 @@
         Inner loop j := 3
         
     * [Video Resource](https://www.youtube.com/watch?v=8i2u4sX25W4)
+
+    * [For Loop Examples](../for_loop)
                 
-	* Break statement: Create a for loop that iterates 10 times. Add a break statement inside the for loop to break out of the loop when it iterates 4 times 
+3. Break statement: Create a for loop that iterates 10 times. Add a break statement inside the for loop to break out of the loop when it iterates 4 times 
 	* Output: 
         
             Inner loop 0
@@ -30,6 +32,20 @@
             Breaking out of the loop as I is eq to 5
             
 3. Continue statement 
-	* tbd
-     
-[For Loop Examples](../for_loop)
+	* [Continue Example](../../for_loop/continue.go)
+	* Output 
+		
+			GoLang is easy 0
+			GoLang is easy 1
+			GoLang is easy 2
+			Loop continues
+			GoLang is easy 4
+			GoLang is easy 5
+			GoLang is easy 6
+			GoLang is easy 7
+			GoLang is easy 8
+			GoLang is easy 9
+			Exiting the loop
+ ### To Do    
+ 		Find a realworld example of continue 
+ 		
