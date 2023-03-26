@@ -1,3 +1,4 @@
+// Note: Module directory name shares the same name within the module
 package dog_module
 
 type ListOfDogs struct {
