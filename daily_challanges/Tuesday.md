@@ -10,13 +10,27 @@
 	* Clues 
 		* Simply first 
 		* Expand on it 
+5. [Array Examples](../arrays)
+6. Array structure 
+	* `array size - type - values`
+
+### To Do 
+
+* Find a real-life use case of an array
+* What
     
 ### Slices Challange
 
 1. Create a Slice, assign a value, and then print them out. 
+2. Slice structure 
+		* Uses `make` 
+		* Empty place holder 
+		* type
+		* size of the slice
 
-   
-* [Array Examples](../arrays)
+### To Do 
+
+* Find a real-life example of slice 
 * [Slice Examples](../slices)
 
 
