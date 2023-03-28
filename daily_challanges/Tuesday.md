@@ -23,10 +23,10 @@
 
 1. Create a Slice, assign a value, and then print them out. 
 2. Slice structure 
-		* Uses `make` 
-		* Empty place holder 
-		* type
-		* size of the slice
+	* Uses `make` 
+	* Empty place holder 
+	* Type
+	* Size of the slice
 
 ### To Do 
 
