@@ -33,5 +33,7 @@
 | | | switch | | |
 
 
+### Good Resources 
 
+* [w3schools](https://www.w3schools.com/go/index.php)
 
