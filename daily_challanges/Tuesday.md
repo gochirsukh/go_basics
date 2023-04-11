@@ -37,6 +37,11 @@
 1. Create a slice of strings that can expand
 2. [Expanding Slice Example](../slices/slice_is_elastic.go)
 
+### Slices Challange 3
+
+1. Loop through slice values 
+2. Tip: Use the array looping 
+
 ### To Do 
 
 * Find a real-life example of slice 
