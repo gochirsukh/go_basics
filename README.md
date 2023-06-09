@@ -1,3 +1,7 @@
+## Why Go?
+
+**Go** is a compiled language that is fast and can run anywhere. I created to this repo to master **Go** and to implement cloud native applications and tools
+
 ### Go Challenges
 
 * [Monday](./daily_challanges/Monday.md)
