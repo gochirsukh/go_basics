@@ -12,13 +12,10 @@
 * [Saturday](./daily_challanges/Saturday.md) 
 * [Sunday](./daily_challanges/Sunday.md)
 
-### To Do
+### Basics
 
 * [Go Official Page](https://go.dev/tour/list)
-* Golang 25 key words [link](https://articles.wesionary.team/know-about-25-keywords-in-go-eca109855d4d)
-
-### 
-
+* [Golang 25 key words](https://articles.wesionary.team/know-about-25-keywords-in-go-eca109855d4d)
 
 |Declaration | Compostion types | Control Folow | Function Modifier |
 |--------|--------|--------|--------|
@@ -39,5 +36,5 @@
 
 ### Good Resources 
 
-* [w3schools](https://www.w3schools.com/go/index.php)
+* [Further Study](https://www.w3schools.com/go/index.php)
 
