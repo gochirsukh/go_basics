@@ -1,7 +1,7 @@
 ## Sunday
 
 1. **Struct** (Be sure to use **module** structure in your challanges)
-	* Think about the stuct syntax before you dive int it. 
+	* Think about the stuct syntax before you dive into it. 
 	* Create a person struct and print fname, lname, and age 
 	* Create an app that prints out specs of MacBook. The struct should be in a module
 	* Create an app called bobs-computer
