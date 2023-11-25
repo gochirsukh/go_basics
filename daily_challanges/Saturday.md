@@ -2,7 +2,7 @@
 
 1. File handling 
    * Read text `file.txt` 
-   * Inclide error handling
+   * Include error handling
    * [File Handling Examples](../file_handling)
 
 2. Go routine
